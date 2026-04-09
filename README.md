@@ -1,5 +1,9 @@
 # 付鹏.skill
 
+<p align="center">
+  <img src="fupeng.jpg" width="400"/>
+</p>
+
 > 「关键不在结果，而在节奏。」
 > 「不要交易新闻本身，要交易新闻的传导链。」
 
