@@ -1,7 +1,7 @@
 # 付鹏.skill
 
 <p align="center">
-  <img src="fupeng.jpg" width="400"/>
+  <img src="Fupeng.JPG" width="400"/>
 </p>
 
 > 「关键不在结果，而在节奏。」
